@@ -1,11 +1,10 @@
-# 📖 Ny Baiboly DIEM v1.2
+# Ny Baiboly DIEM v1.2
 
 <p align="center">
-  <img src="./assets/images/ic_launcher.png" width="150" height="150" alt="Baiboly DIEM Logo" style="border-radius: 20%;" />
+  <img src="./assets/images/gg.png" width="150" height="150" alt="Baiboly DIEM Logo" style="border-radius: 20%;" />
 </p>
 
-Faly mampahafantatra ho antsika **Ny Baiboly DIEM v1.2**. Application finday natao hanampiana anao amin'ny famakiana sy fandinihana ny Tenin'Andriamanitra amin'ny teny malagasy DIEM (Dikan-teny Iombonana Eto Madagasikara).
-
+Faly mampahafantatra ho antsika **Ny Baiboly DIEM v1.2**.
 ---
 
 
@@ -35,7 +34,6 @@ Andramo ary zarao amin'ny namana!
 *   [TypeScript](https://www.typescriptlang.org/)
 
 ## Development
-Raha te-hanova na hitondra fanatsarana ianao:
 
 1.  **Install dependencies**:
     ```bash
