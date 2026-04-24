@@ -4,7 +4,7 @@
   <img src="./assets/images/gg.png" width="150" height="150" alt="Baiboly DIEM Logo" style="border-radius: 20%;" />
 </p>
 
-Faly mampahafantatra ho antsika **Ny Baiboly DIEM v1.2**.
+Faly mampahafantatra ho antsika **Ny Baiboly DIEM v1.2**
 ---
 
 
